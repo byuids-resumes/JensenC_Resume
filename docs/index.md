@@ -2,7 +2,7 @@
 layout: cv
 title: Conner's Resume
 ---
-# Brigham Young
+# Conner Jensen
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
