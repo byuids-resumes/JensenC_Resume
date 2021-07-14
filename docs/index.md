@@ -5,12 +5,11 @@ title: Conner's Resume
 # Conner Jensen
 
 <div id="webaddress">
-<a href="conner.jensen1719@gmail.com ">conner.jensen1719@gmail.com</a>
+<a href="conner.jensen1719@gmail.com ">Email</a>
 | <a href="www.linkedin.com/in/connerj1719">LinkedIn</a>
 | <a>(208)589-5436</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
@@ -19,7 +18,14 @@ __Brigham Young University Idaho__, Rexburg, ID
 *Bachelor of Science in Business Analytics*
 
 - Certificate in Data Science
-- Knowledgeable in Python, SQL, R, HTML, PowerBi, Tableau, and Excel
+- Articulated the process, benefits, and challenges of Big Data manipulation using R Studio and uploading to GitHub
+- Performed statistical tests such as t tests, chi-squared tests, ANOVA,  linear regression, and logistic regression using R Studio.
+- Used data manipulation libraries to perform straightforward analysis, produce basic plots, and prepare data for machine learning algorithms in python
+- Used machine learning libraries to discover insights, make predictions, and interpret the success of these algorithms in python
+- Retreive, wrangle, and shape data sourced from the Web, Excel, and a relational database
+- Used Microsoft Power BI and Tableau to conduct data analysis, obtain insights, and present using stories
+- Plan, design, and develop web pages and sites (HTML / CSS) using glitch
+- Wrangled data using SQL (forward and reverse engineering) in order to use the data to create insights.
 - Member of the Accounting and Data Science Society.
 
 ## Related Experience
@@ -74,12 +80,5 @@ __Church of Jesus Christ of Latter Day Saints__, Barcelona, Spain
 - Fulfilled leadership responsibilities (leader over 30+ team members) which consisted of training, follow-up, and supervising each team member in a Spanish and English setting.	  
 
 
-
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
